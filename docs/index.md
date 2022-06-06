@@ -51,7 +51,7 @@ Here is how the SQLShack site defines Multi-Statement Table-Valued Functions, â€
 
 (https://www.sqlshack.com/sql-server-multi-statement-table-valued-functions - External Site)
 
-<img src="./images/MSTVFvsInline.jpg>
+![Image](./images/MSTVFvsInline.jpg)
 
  
 
